@@ -5,7 +5,7 @@ ADD B
 STA C
 CMA
 HLT
-A, DEC -8
+A, DEC 5
 B, DEC 45
 C, DEC 0
 END
